@@ -1,0 +1,10 @@
+Cameron Calv
+
+For problem 2, the closedhash tests show that it takes much more probes than is predicted
+by the functions provided for the problem. I believe that this is perhaps due to the hashing
+function that I used which I took straight from the book. This would cause non-random and less-
+uniform distributing of values in the dictionary and would skew data considerably, as it appears
+to have done.
+
+
+
